@@ -10,7 +10,7 @@ st.caption("Application en cours de développement - Vos retours sont précieux 
 # Option 1 : Saisie via la barre latérale (pour vos tests)
 api_key = st.sidebar.text_input("Clé API Gemini", type="password")
 
-# Option 2 (Plus simple pour vos amis) : 
+# Option 2 (Plus simple pour vos amis) :
 # Décommentez la ligne ci-dessous et mettez votre clé directement
 api_key = "AIzaSyBfTF3EbvRU8bjEGGTvrEheaccvVtXuJeY"
 
