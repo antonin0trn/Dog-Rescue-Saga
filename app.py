@@ -8,7 +8,7 @@ st.title("⚡ Test de mon application (Gemini 3 Flash)")
 
 # --- CONFIGURATION DE L'IA (OPTION 2) ---
 # 1. REMPLACEZ PAR VOTRE CLÉ API
-API_KEY = "AIzaSyBfTF3EbvRU8bjEGGTvrEheaccvVtXuJeY" 
+API_KEY = "xxx" 
 
 try:
     # On configure l'API
